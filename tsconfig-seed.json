@@ -35,7 +35,7 @@
         "./lib/*"
       ],
       "@/styles/*": [
-        "./styles/*"
+        "./src/styles/*"
       ],
       "@/prisma/*": [
         "./prisma/*"
